@@ -1,1 +1,24 @@
-/* Add your styling here: */
+body {
+    text-align: center;
+    background-color: aquamarine;
+    font-family: geraldine;
+}
+
+h1 {
+    color: #FFA384;
+    font-family: 'Damion', cursive;
+}
+​
+#profiles {
+    display: flex;
+}
+
+#profiles div {
+    display: flex;
+    border: 5px solid black;
+    
+}
+
+#profiles div p {
+    color: blue;
+}
